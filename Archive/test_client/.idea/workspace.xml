@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="assignment1:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d232c248-f89d-4650-9402-5afc819c8680" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/BallBearing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/BallBearing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/RotaryShaft.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/RotaryShaft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/SealType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/SealType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/Shaft.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/Shaft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/ShaftMounted.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/ShaftMounted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/Sprocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/Sprocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/SysOfMeasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/HardwareOrders/SysOfMeasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/checkstyle-result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/classes/HardwareOrders/ShaftMounted.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/classes/HardwareOrders/ShaftMounted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/classes/HardwareOrders/Sprocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/classes/HardwareOrders/Sprocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/classes/HardwareOrders/StockItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/classes/HardwareOrders/StockItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/findbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/findbugsXml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/javadoc-bundle-options/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/javadoc-bundle-options/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/pmd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/BallBearing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/BallBearing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/Price.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/Price.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/RotaryShaft.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/RotaryShaft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/SealType.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/SealType.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/Shaft.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/Shaft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/ShaftMounted.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/ShaftMounted.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/ShaftMountedParts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/ShaftMountedParts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/Sprocket.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/Sprocket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/StockItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/StockItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/SysOfMeasure.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/SysOfMeasure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/BallBearing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/BallBearing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/Price.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/Price.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/RotaryShaft.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/RotaryShaft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/SealType.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/SealType.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/Shaft.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/Shaft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/ShaftMounted.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/ShaftMounted.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/ShaftMountedParts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/ShaftMountedParts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/Sprocket.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/Sprocket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/StockItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/StockItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/SysOfMeasure.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/class-use/SysOfMeasure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/HardwareOrders/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/apidocs/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/checkstyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/checkstyle.rss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/css/maven-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/css/maven-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/dependencies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/dependency-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/distribution-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/distribution-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/findbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/findbugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/findbugs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/findbugs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/integration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/issue-tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/issue-tracking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/.sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/.sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/HardwareOrders/Sprocket.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/HardwareOrders/Sprocket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/HardwareOrders/Sprocket.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/HardwareOrders/Sprocket.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/HardwareOrders/StockItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/HardwareOrders/StockItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/HardwareOrders/StockItem.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/HardwareOrders/StockItem.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/mail-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/mail-lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/plugin-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/pmd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/pmd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/project-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/project-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/project-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/project-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/source-repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/source-repository.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/team-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/team-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/xref/HardwareOrders/Sprocket.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/xref/HardwareOrders/Sprocket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/site/xref/HardwareOrders/StockItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/site/xref/HardwareOrders/StockItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/HardwareOrders.BallBearingTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/HardwareOrders.BallBearingTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/HardwareOrders.SprocketTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/HardwareOrders.SprocketTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/TEST-HardwareOrders.BallBearingTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/TEST-HardwareOrders.BallBearingTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/TEST-HardwareOrders.RotaryShaftTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/TEST-HardwareOrders.RotaryShaftTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/TEST-HardwareOrders.SprocketTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/target/surefire-reports/TEST-HardwareOrders.SprocketTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/BDSD_Assignment1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/src/main/java/com/example/MyClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/src/main/java/com/example/MyResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/src/test/java/com/example/MyResourceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/target/classes/com/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/target/classes/com/example/MyResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDSD_Assignment1/target/test-classes/com/example/MyResourceTest.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-495622047">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="877" />
+          <entry key="md" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="877" />
+          <entry key="Markdown" value="18" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ClientMain" value="1" />
+          <entry key="csv" value="1" />
+          <entry key="java" value="3" />
+          <entry key="jpeg" value="2" />
+          <entry key="jsp" value="1" />
+          <entry key="md" value="1" />
+          <entry key="png" value="5" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="7" />
+          <entry key="JAVA" value="3" />
+          <entry key="JSP" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sent</find>
+      <find>joinThreads</find>
+      <find>print</find>
+      <find>get</find>
+      <find>incrementRequestSuccess</find>
+      <find>thread</find>
+      <find>latency</find>
+      <find>wall</find>
+      <find>url</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/client/MyResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/client/TestMyClient.java" />
+        <option value="$PROJECT_DIR$/1.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/client/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/client/MyClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="23" />
+    <option name="width" value="1385" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538373435165" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientMain">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <output_file path="graph1.csv" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.client.ClientMain" />
+      <module name="assignment1" />
+      <option name="PROGRAM_PARAMETERS" value="100 100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.client.MyClient" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.20" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="assignment1:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_assignment1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60201" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="assignment1:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.20" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_assignment1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60201" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Test" />
+      <item itemvalue="Application.ClientMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d232c248-f89d-4650-9402-5afc819c8680" name="Default" comment="" />
+      <created>1506790121607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506790121607</updated>
+      <workItem from="1506790124775" duration="5001000" />
+      <workItem from="1506811856536" duration="2067000" />
+      <workItem from="1506819067402" duration="128000" />
+      <workItem from="1538344167456" duration="18334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25530000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="23" width="1385" height="806" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25688756" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8445378" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3277311" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3298585" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JAVA/edu.neu.client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.neu.client</OriginalElement>
+          <nodes>
+            <node x="" y="">edu.neu.client.MyClient</node>
+            <node x="" y="">edu.neu.client.MyClient.Result</node>
+            <node x="" y="">edu.neu.client.TestMyClient</node>
+            <node x="" y="">edu.neu.client.MyResource</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="477.0" y="727.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_11.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="704" selection-start-line="704" selection-end-line="704" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_11.jdk/Contents/Home/src.zip!/java/net/URI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="1087" selection-start-line="1087" selection-end-line="1087" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_11.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv/GET-10:100.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-609" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/client/MyResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Screenshots/PostOutput-100:100.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Screenshots/PostOutput-10:100.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphs/GET-10:100.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BreakPoint/GET:POST-BreakPoint.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BreakPoint/GET-BreakPoint.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlockDiagram.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/edu.neu.client.ClientMain">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.neu.client.ClientMain</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+            <node x="" y="">edu.neu.client.MyClient</node>
+            <node x="" y="">edu.neu.client.ClientMain</node>
+            <node x="" y="">java.lang.Runnable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="305.0" y="288.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/client/ClientMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-934">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#1527#1528#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#3235#3236#0" expanded="true" />
+            <element signature="e#3300#3301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/client/MyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-968">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#4794#4795#0" expanded="true" />
+            <element signature="e#4829#4830#0" expanded="true" />
+            <element signature="e#5966#5967#0" expanded="true" />
+            <element signature="e#6014#6015#0" expanded="true" />
+            <element signature="e#6070#6071#0" expanded="true" />
+            <element signature="e#6121#6122#0" expanded="true" />
+            <element signature="e#6167#6168#0" expanded="true" />
+            <element signature="e#6215#6216#0" expanded="true" />
+            <element signature="e#6264#6265#0" expanded="true" />
+            <element signature="e#6315#6316#0" expanded="true" />
+            <element signature="e#6370#6371#0" expanded="true" />
+            <element signature="e#6418#6419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
