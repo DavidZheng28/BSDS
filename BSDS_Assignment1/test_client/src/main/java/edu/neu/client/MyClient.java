@@ -59,30 +59,30 @@ public class MyClient implements Runnable {
              * GET: To test GET requests individually, please comment the
              * below POST.
              */
-            Result.incrementRequestSent();
+            Statistic.IncreaseRequestSent();
             long startTimeGet = System.currentTimeMillis();
             if(getStatus().equals("Got it!")) {
-                Result.incrementRequestSuccess();
+                Statistic.increaseRequestSuccess();
                 // System.out.println("GET: ok");
             }
             long endTimeGet = System.currentTimeMillis();
-            Result.addLatency(endTimeGet - startTimeGet);
+            Statistic.appendLatency(endTimeGet - startTimeGet);
 
             /**
              * POST: To test POST requests individually, please comment the
              * above GET.
              */
             long startTimePost = System.currentTimeMillis();
-            Result.incrementRequestSent();
+            Statistic.IncreaseRequestSent();
             if(Integer.parseInt(postText(getPostParm(), String.class)) == (getPostParm().length())) {
-                Result.incrementRequestSuccess();
+                Statistic.increaseRequestSuccess();
                 // System.out.println("POST: ok");
             }
             long endTimePost = System.currentTimeMillis();
-            Result.addLatency(endTimePost - startTimePost);
+            Statistic.appendLatency(endTimePost - startTimePost);
         }
     }
-    static class Result {
+    static class Statistic {
         private static AtomicInteger requestSent = new AtomicInteger(0);
         private static AtomicInteger requestSuccess = new AtomicInteger(0);
         private static CopyOnWriteArrayList<Long> latencyList = new CopyOnWriteArrayList<>();
@@ -126,11 +126,11 @@ public class MyClient implements Runnable {
             else median = (latencyList.get(size / 2) + latencyList.get((size / 2) + 1)) / 2;
         }
 
-        public static void incrementRequestSent() {
+        public static void IncreaseRequestSent() {
             requestSent.addAndGet(1);
         }
 
-        public static void incrementRequestSuccess() {
+        public static void increaseRequestSuccess() {
             requestSuccess.addAndGet(1);
         }
 
@@ -142,7 +142,7 @@ public class MyClient implements Runnable {
             return requestSuccess.get();
         }
 
-        public static void addLatency(long latency) {
+        public static void appendLatency(long latency) {
             latencyList.add(latency);
         }
 

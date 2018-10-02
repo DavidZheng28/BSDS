@@ -1,5 +1,6 @@
 package edu.neu.client;
 
+import edu.neu.client.MyClient.Statistic;
 import javax.ws.rs.client.ClientBuilder;
 import java.util.ArrayList;
 import java.util.List;
@@ -85,11 +86,11 @@ public class ClientMain {
     }
 
     private void printRequestsSent() {
-        System.out.println("Total number of requests sent: " + MyClient.Result.getRequestSent());
+        System.out.println("Total number of requests sent: " + Statistic.getRequestSent());
     }
 
     private void printRequestsBack() {
-        System.out.println("Total number of successful responses: " + MyClient.Result.getRequestSuccess());
+        System.out.println("Total number of successful responses: " + Statistic.getRequestSuccess());
     }
 
     private void printRunTime() {
@@ -97,15 +98,15 @@ public class ClientMain {
     }
 
     private void printMeanLatency() {
-        System.out.println("Mean latency: " + MyClient.Result.getMean());
+        System.out.println("Mean latency: " + Statistic.getMean());
     }
 
     private void printMedianLatency() {
-        System.out.println("Median latency: " + MyClient.Result.getMedian());
+        System.out.println("Median latency: " + Statistic.getMedian());
     }
 
     private void printCalculatedPercentile(int x) {
-        System.out.println(x + " percentile latency: " + MyClient.Result.calculatePercentile(x));
+        System.out.println(x + " percentile latency: " + Statistic.calculatePercentile(x));
     }
 
     private void printPhaseInfo(MyClient myClient) {
@@ -164,13 +165,13 @@ public class ClientMain {
             test.printPhaseInfo(myClientRunnable);
 
             if(i == PHASE_FACTOR.length - 1){
-                MyClient.Result.calculateMean();
-                MyClient.Result.calculateMedian();
+                System.out.println("");
+                Statistic.calculateMean();
+                Statistic.calculateMedian();
                 test.printToConsole(myClientRunnable);
                 long end = System.currentTimeMillis();
                 System.out.println("Total run time = " + (end - start));
             }
-
             System.out.println("");
         }
     }

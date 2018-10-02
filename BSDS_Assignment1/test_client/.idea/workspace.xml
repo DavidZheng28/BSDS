@@ -80,33 +80,49 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1488491106">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="44" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/client/MyClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1989">
-              <caret line="137" column="36" lean-forward="true" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="36" />
+            <state relative-caret-position="915">
+              <caret line="140" column="43" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4338#4339#0" expanded="true" />
+                <element signature="e#4386#4387#0" expanded="true" />
                 <element signature="e#4580#4581#0" expanded="true" />
-                <element signature="e#4634#4635#0" expanded="true" />
-                <element signature="e#4666#4667#0" expanded="true" />
-                <element signature="e#4724#4725#0" expanded="true" />
+                <element signature="e#4628#4629#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/client/ClientMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="91" column="93" selection-start-line="91" selection-start-column="86" selection-end-line="91" selection-end-column="103" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="497">
+              <caret line="174" column="35" lean-forward="true" selection-start-line="174" selection-start-column="35" selection-end-line="174" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -145,8 +161,8 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/client/TestMyClient.java" />
         <option value="$PROJECT_DIR$/1.md" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/client/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/neu/client/ClientMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/neu/client/MyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/neu/client/ClientMain.java" />
       </list>
     </option>
   </component>
@@ -191,6 +207,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,14 +246,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538373392621" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538512355066" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -261,7 +277,7 @@
     <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <output_file path="graph1.csv" />
       <option name="MAIN_CLASS_NAME" value="edu.neu.client.ClientMain" />
-      <module name="assignment1" />
+      <module name="Client" />
       <option name="PROGRAM_PARAMETERS" value="20 100" />
       <extension name="coverage">
         <pattern>
@@ -463,17 +479,17 @@
       <workItem from="1538344167456" duration="18207000" />
       <workItem from="1538373742398" duration="261000" />
       <workItem from="1538374013237" duration="879000" />
+      <workItem from="1538512135664" duration="315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26543000" />
+    <option name="totallyTimeSpent" value="26858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="23" width="1385" height="806" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26061058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26433358" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -621,27 +637,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/client/ClientMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/client/MyClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="91" column="93" selection-start-line="91" selection-start-column="86" selection-end-line="91" selection-end-column="103" />
+        <state relative-caret-position="915">
+          <caret line="140" column="43" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4338#4339#0" expanded="true" />
+            <element signature="e#4386#4387#0" expanded="true" />
+            <element signature="e#4580#4581#0" expanded="true" />
+            <element signature="e#4628#4629#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/client/MyClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/neu/client/ClientMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="137" column="36" lean-forward="true" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4580#4581#0" expanded="true" />
-            <element signature="e#4634#4635#0" expanded="true" />
-            <element signature="e#4666#4667#0" expanded="true" />
-            <element signature="e#4724#4725#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="497">
+          <caret line="174" column="35" lean-forward="true" selection-start-line="174" selection-start-column="35" selection-end-line="174" selection-end-column="35" />
         </state>
       </provider>
     </entry>
